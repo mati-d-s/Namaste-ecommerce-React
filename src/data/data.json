@@ -74,27 +74,27 @@
   {
     "id": 9,
     "titulo": "Teclado Gamer Redragon Horus Mini K632-rgb 60%",
-    "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+    "descripcion": "El HORUS MINI K632 RGB es un teclado mecánico de perfil bajo y tamaño compacto tipo 60%. Incluye teclas macro y multimedia dedicadas, rueda de volumen, cable extraíble, componentes de aluminio anodizado y sistema de retroiluminación RGB Chroma con efectos dinámicos personalizables, adecuado para juegos que requieren agilidad y precisión.",
     "categoria": "teclados",
-    "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+    "imagen": "https://i.postimg.cc/KzNKR1K7/Redragon-Horus-K621.png",
     "precio": 1500,
     "stock": 10
   },
   {
     "id": 10,
-    "titulo": "Pasta - Fett Alfredo, Single Serve",
-    "descripcion": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "titulo": "Placa De Video Gigabyte RTX 3060 TI Gaming 8GB OC 8GD",
+    "descripcion": "La **Gigabyte RTX 3060 Ti Gaming OC 8GB** es una tarjeta gráfica potente basada en la arquitectura NVIDIA Ampere. Cuenta con **8GB de memoria GDDR6** y un sistema de enfriamiento **WINDFORCE 3X** con ventiladores de giro alterno. Su reloj base es de **1740 MHz**, lo que proporciona un rendimiento excelente para juegos y aplicaciones creativas.",
     "categoria": "placa de video",
-    "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+    "imagen": "https://i.postimg.cc/zDxskqKx/placa-de-video-gigabyte-rtx-3060-ti-gaming-8gb-oc-8gd.webp",
     "precio": 1500,
     "stock": 10
   },
   {
     "id": 11,
-    "titulo": "Bread - Assorted Rolls",
-    "descripcion": "Mauris sit amet eros.",
+    "titulo": "RX 6500 XT TUF Gaming OC",
+    "descripcion": "La **ASUS TUF Gaming RX 6500 XT OC** es una tarjeta gráfica basada en la arquitectura RDNA 2 de AMD. Cuenta con **4GB de memoria GDDR6** y un diseño de enfriamiento robusto con **dos ventiladores Axial-tech** y un disipador de calor de 2.7 ranuras. Es ideal para juegos a **1080p** con configuraciones medias a altas.",
     "categoria": "placa de video",
-    "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+    "imagen": "https://i.postimg.cc/BbvxnDCD/41itp-GAdh-RL-AC-1.jpg",
     "precio": 1500,
     "stock": 10
   },
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "titulo": "Artichoke - Hearts, Canned",
+    "titulo": "RTX 4070 Super Twin Edge",
     "descripcion": "Nullam varius.",
     "categoria": "placa de video",
     "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "titulo": "Truffle Cups - Red",
+    "titulo": "RX 6600 Pulse",
     "descripcion": "Nulla tempus.",
     "categoria": "placa de video",
     "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
