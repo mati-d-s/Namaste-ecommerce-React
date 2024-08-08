@@ -97,9 +97,10 @@
     gap: 2rem;
 }
 
-.producto-detalle img {
+.producto-detalle-img {
     width: 100%;
-}
+    height: auto; /* Mantiene la proporción de la imagen */
+  }
 
 .producto-detalle-info h3 {
     font-size: 2rem;

@@ -37,7 +37,7 @@ const Navbar = () => {
             <li><Link className="menu-link" to="/productos">Productos</Link></li>
             <li><Link className="menu-link" to="/productos/mouse">Mouse</Link></li>
             <li><Link className="menu-link" to="/productos/teclados">Teclados</Link></li>
-            <li><Link className="menu-link" to="/productos/placa de video">Placa de video</Link></li>
+            <li><Link className="menu-link" to="/productos/placadevideo">Placa de video</Link></li>
             <li><Link className="menu-link" to="/productos/microprocesadores">Microprocesadores</Link></li>
             <li><Link className="menu-link" to="/nosotros">Nosotros</Link></li>
             <li><Link className="menu-link" to="/contacto">Contacto</Link></li>

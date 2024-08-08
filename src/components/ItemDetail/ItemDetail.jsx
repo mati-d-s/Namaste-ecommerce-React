@@ -10,7 +10,7 @@ const ItemDetail = ({item}) => {
                 <h3 className='titulo'>{item.titulo}</h3>
                 <p className='descripcion'>{item.descripcion}</p>
                 <p className='categoria'>{item.categoria}</p>
-                <p className='precio'>{item.precio}</p>
+                <p className='precio'> ${item.precio}</p>
 
 
 

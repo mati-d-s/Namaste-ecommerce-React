@@ -28,9 +28,9 @@
   },
   {
     "id": 4,
-    "titulo": "Placa de Video XFX Radeon RX 580 8GB GDDR5 GTS 2048SP",
+    "titulo": "XFX Radeon RX 580 8GB GDDR5 GTS 2048SP",
     "descripcion": "Este componente electrónico procesa la información que llega al dispositivo y los transforma en imágenes o videos para mostrarla visualmente. Es ideal para trabajar con aplicaciones gráficas ya que permite obtener imágenes más nítidas.",
-    "categoria": "placa de video",
+    "categoria": "placadevideo",
     "imagen": "https://i.postimg.cc/3rg7zFJk/compragamer-Imganen-general-39191-Placa-de-Video-XFX-Radeon-RX-580-8-GB-GDDR5-GTS-2048-SP-8c7b9091-grn.jpg",
     "precio": 171500,
     "stock": 10
@@ -48,7 +48,7 @@
     "id": 6,
     "titulo": "NVIDIA GeForce RTX 4060 Ti",
     "descripcion": "La ASUS Dual GeForce RTX™ 4060 Ti fusiona un rendimiento térmico dinámico con una amplia compatibilidad. Las soluciones avanzadas de refrigeración de las tarjetas gráficas insignia, incluidos dos ventiladores con tecnología axial para maximizar el flujo de aire hacia el disipador térmico, se integran en la tarjeta de 26,7 cm de longitud y 2,56 ranuras, con lo cual se obtiene más potencia en menos espacio. Estas mejoras convierten a ASUS Dual en la elección perfecta para los jugadores que buscan un rendimiento gráfico potente en un diseño compacto.",
-    "categoria": "placa de video",
+    "categoria": "placadevideo",
     "imagen": "https://i.postimg.cc/sf58y5Hq/D-NQ-NP-711902-MLU69804136502-062023-O.webp",
     "precio": 801500,
     "stock": 10
@@ -82,9 +82,9 @@
   },
   {
     "id": 10,
-    "titulo": "Placa De Video Gigabyte RTX 3060 TI Gaming 8GB OC 8GD",
+    "titulo": "Gigabyte RTX 3060 TI Gaming 8GB OC 8GD",
     "descripcion": "La **Gigabyte RTX 3060 Ti Gaming OC 8GB** es una tarjeta gráfica potente basada en la arquitectura NVIDIA Ampere. Cuenta con **8GB de memoria GDDR6** y un sistema de enfriamiento **WINDFORCE 3X** con ventiladores de giro alterno. Su reloj base es de **1740 MHz**, lo que proporciona un rendimiento excelente para juegos y aplicaciones creativas.",
-    "categoria": "placa de video",
+    "categoria": "placadevideo",
     "imagen": "https://i.postimg.cc/zDxskqKx/placa-de-video-gigabyte-rtx-3060-ti-gaming-8gb-oc-8gd.webp",
     "precio": 1500,
     "stock": 10
@@ -93,7 +93,7 @@
     "id": 11,
     "titulo": "RX 6500 XT TUF Gaming OC",
     "descripcion": "La **ASUS TUF Gaming RX 6500 XT OC** es una tarjeta gráfica basada en la arquitectura RDNA 2 de AMD. Cuenta con **4GB de memoria GDDR6** y un diseño de enfriamiento robusto con **dos ventiladores Axial-tech** y un disipador de calor de 2.7 ranuras. Es ideal para juegos a **1080p** con configuraciones medias a altas.",
-    "categoria": "placa de video",
+    "categoria": "placadevideo",
     "imagen": "https://i.postimg.cc/BbvxnDCD/41itp-GAdh-RL-AC-1.jpg",
     "precio": 1500,
     "stock": 10
@@ -129,7 +129,7 @@
     "id": 15,
     "titulo": "RTX 4070 Super Twin Edge",
     "descripcion": "Nullam varius.",
-    "categoria": "placa de video",
+    "categoria": "placadevideo",
     "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
     "precio": 1500,
     "stock": 10
@@ -147,7 +147,7 @@
     "id": 17,
     "titulo": "RX 6600 Pulse",
     "descripcion": "Nulla tempus.",
-    "categoria": "placa de video",
+    "categoria": "placadevideo",
     "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
     "precio": 1500,
     "stock": 10
